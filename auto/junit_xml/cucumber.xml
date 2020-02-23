@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="13.834901">
+    <testcase classname="AutoTReader HomePage Functionality" name="Verify HomePage Elements are present" time="13.834901">
+        <system-out>
+            <![CDATA[Given user is already on AutoTrader HomePage................................passed
+When Browse by Make is present..............................................passed
+Then Browse by Style is present.............................................passed
+Then Advanced Search is present.............................................passed
+Then Search button is present...............................................passed
+Then Drop Downs make and model is present...................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
